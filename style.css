@@ -1,0 +1,44 @@
+       
+td:hover{
+    content: counter(Rashid);
+}
+
+
+
+        td{
+           height: 30px;
+           width: 30px;
+        }
+       h1{
+        text-align: center;
+       
+       }
+       .t2{
+        background-color: pink;
+       }
+       div{
+        height: 100px;
+        background-color:lightgreen;
+        color: red;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+       }
+
+        body{
+            align-items:center;
+        }
+        #p{
+            margin-left: 0px;
+        }
+        td{
+            text-align: center;
+        }
+        
+        table,tr,td{
+            border: 2px solid lightblue;
+           
+        }
+        table{
+            width: 100px;
+        }
